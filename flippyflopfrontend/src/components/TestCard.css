@@ -1,0 +1,15 @@
+.Card {
+  border: 1px solid black;
+  text-align: center;
+  height: 300px;
+  width: 500px;
+}
+
+.someMargin {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.resultButton {
+  width: 50%;
+}
