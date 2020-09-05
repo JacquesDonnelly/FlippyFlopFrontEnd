@@ -2,14 +2,19 @@
   border: 1px solid black;
   text-align: center;
   height: 300px;
-  width: 500px;
-}
-
-.someMargin {
+  width: 90%;
+  max-width: 500px;
   margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 .resultButton {
-  width: 50%;
+  width: 90%;
+  max-width: 500px;
+  margin-top: 10px;
+}
+
+.testCardContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
