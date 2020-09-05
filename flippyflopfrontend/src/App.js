@@ -1,14 +1,16 @@
 import React from 'react';
-import './App.css';
 import Navigation from './components/Navigation'
 import TestCard from './components/TestCard'
+import './App.css';
 
 function App() {
   return (
-		<>
+		<div className="App">
 			<Navigation />
-			<TestCard />
-		</>
+			<div className="AppContent">
+				<TestCard />
+			</div>
+		</div>
   );
 }
 

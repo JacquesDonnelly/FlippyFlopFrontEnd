@@ -1,12 +1,3 @@
-.Card {
-  border: 1px solid black;
-  text-align: center;
-  height: 300px;
-  width: 90%;
-  max-width: 500px;
-  margin-top: 10px;
-}
-
 .resultButton {
   width: 90%;
   max-width: 500px;
