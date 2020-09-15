@@ -1,2 +1,2 @@
-# FlippyFlopFrontEnd
-React Front End for flippyflop.me
+# FlippyFlopME
+React Front End and FastAPI backend for flippyflop.me
